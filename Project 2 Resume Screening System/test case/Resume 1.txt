@@ -1,0 +1,18 @@
+Name: Priya Sharma
+
+Summary:
+Detail-oriented Data Analyst with 3+ years of experience in data wrangling, statistical analysis, and visualization.
+
+Skills:
+- Programming: Python, SQL
+- Tools: Power BI, Tableau, MS Excel
+- Statistical Analysis, Data Cleaning, Predictive Modeling
+
+Experience:
+Data Analyst | ABC Corp | 2021–Present
+- Designed dashboards in Power BI for sales performance tracking
+- Wrote complex SQL queries for ad-hoc reporting
+- Used Python (Pandas, NumPy) for data transformation and modeling
+
+Education:
+B.Sc. in Computer Science
